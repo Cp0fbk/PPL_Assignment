@@ -1,0 +1,13 @@
+
+            main : function void() {
+
+            }
+
+            func1 : function auto(id : auto){
+                for(id = 1, true, 1)
+                {
+                    return;
+                }
+                func1("a");
+            }
+        

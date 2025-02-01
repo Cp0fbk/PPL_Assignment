@@ -1,0 +1,4 @@
+
+            a5 : array [1] of integer = (a > b) && (d < c);
+            a9 : string = a > b && d < c;
+        

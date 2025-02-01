@@ -1,0 +1,5 @@
+
+            a : integer = 1;
+            b : integer = c;
+            main : function void(){}
+        

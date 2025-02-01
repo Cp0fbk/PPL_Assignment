@@ -1,0 +1,10 @@
+
+            foo : function float() {
+                return 1.1;
+                return "a";
+                {
+                    return "a";
+                }
+            }
+            main : function void() {}
+        

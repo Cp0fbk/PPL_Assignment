@@ -1,0 +1,11 @@
+
+            main : function void() {}
+
+            foo_a : function auto(a : auto){
+                if(foo_a(1)){
+                    
+                }
+                c : boolean = foo_a(1);
+                b : string = foo_a(1);
+            }
+        

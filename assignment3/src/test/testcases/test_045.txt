@@ -1,0 +1,13 @@
+
+            foo_a: function void(inherit c : auto) inherit foo_b{preventDefault();}
+            foo_b: function void(inherit b : auto){}
+            foo_c: function integer() inherit foo_a{
+                preventDefault();
+                a : float = b;
+                d : integer = d;
+                e : float = d;
+                k : string = d;
+            }            
+
+            main : function auto() {}
+        

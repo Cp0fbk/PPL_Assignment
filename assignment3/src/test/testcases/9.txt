@@ -1,0 +1,4 @@
+
+            a : function void (a : integer) inherit b{preventDefault();}
+            main : function void(){}
+        

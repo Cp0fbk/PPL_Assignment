@@ -1,0 +1,9 @@
+
+            func1 : function integer (e : auto){
+                e = 2.0;
+                e = 2;
+                e = "@";
+            }
+
+            main : function void() {}
+        

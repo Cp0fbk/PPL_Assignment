@@ -1,0 +1,3 @@
+
+            fo4 : function false (inherit out id : auto) {}
+        

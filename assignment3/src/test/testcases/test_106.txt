@@ -1,0 +1,6 @@
+
+            a : integer = 1 + 2.3 * 3 / 4.0;
+            b : float = 1.0 + a;
+            
+            main : function void() {}
+        

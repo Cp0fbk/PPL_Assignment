@@ -1,0 +1,6 @@
+
+            foo : function auto () {  
+                foo();
+                foo(6*5, 3);
+            }
+        

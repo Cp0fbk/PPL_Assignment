@@ -1,0 +1,33 @@
+
+/*
+printListFunctionMT22 :[
+	FuncMT22(#0, readInteger, IntegerType(), [])
+	FuncMT22(#1, readFloat, FloatType(), [])
+	FuncMT22(#2, readBoolean, BooleanType(), [])
+	FuncMT22(#3, readString, StringType(), [])
+	FuncMT22(#5, printInteger, VoidType(), [ParamMT22(#4, printInteger, IntegerType(), False, inherit=False)])
+	FuncMT22(#7, printFloat, VoidType(), [ParamMT22(#6, printFloat, FloatType(), False, inherit=False)])
+	FuncMT22(#9, printBoolean, VoidType(), [ParamMT22(#8, printBoolean, BooleanType(), False, inherit=False)])
+	FuncMT22(#11, printString, VoidType(), [ParamMT22(#10, printString, StringType(), False, inherit=False)])
+	FuncMT22(#12, foo_a, AutoType(), [], inherit=#13)
+	FuncMT22(#13, foo_b, VoidType(), [])
+	FuncMT22(#14, foo_c, VoidType(), [], inherit=#13)
+	FuncMT22(#15, foo_d, VoidType(), [], inherit=#14)
+	FuncMT22(#16, main, VoidType(), [])
+]
+*/
+        // readInteger, readFloat, readBoolean, readString, printInteger, printFloat, printBoolean, printString
+            var_a : integer;
+        // readInteger, readFloat, readBoolean, readString, printInteger, printFloat, printBoolean, printString, var_a
+            foo_a : function auto() inherit foo_b{}
+        // readInteger, readFloat, readBoolean, readString, printInteger, printFloat, printBoolean, printString, var_a, foo_a
+            var_b : string;
+        // readInteger, readFloat, readBoolean, readString, printInteger, printFloat, printBoolean, printString, var_a, foo_a, var_b
+            foo_b : function void(){}
+        // readInteger, readFloat, readBoolean, readString, printInteger, printFloat, printBoolean, printString, var_a, foo_a, var_b, foo_b
+            foo_c : function void() inherit foo_b{}
+        // readInteger, readFloat, readBoolean, readString, printInteger, printFloat, printBoolean, printString, var_a, foo_a, var_b, foo_b, foo_c
+            foo_d : function void() inherit foo_c{}
+        // readInteger, readFloat, readBoolean, readString, printInteger, printFloat, printBoolean, printString, var_a, foo_a, var_b, foo_b, foo_c, foo_d
+            main : function void(){}
+        

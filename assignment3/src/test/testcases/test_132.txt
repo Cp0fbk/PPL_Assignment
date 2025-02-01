@@ -1,0 +1,11 @@
+
+            a : string; 
+            b : string = a; 
+            foo_b: function void(inherit b : integer){}
+            foo_c: function void() inherit foo_b{
+                preventDefault();
+                c : string = b; // inherit b : integer
+            }            
+
+            main : function void() {}
+        

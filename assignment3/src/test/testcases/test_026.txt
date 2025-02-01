@@ -1,0 +1,7 @@
+
+            foo_a: function void() inherit foo_b{preventDefault();}
+            foo_b: function void(inherit b : auto){}
+            foo_c: function void(inherit b : auto) inherit foo_a{preventDefault();}            
+
+            main : function void() {}
+        

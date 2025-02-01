@@ -1,0 +1,8 @@
+
+            var_a : integer;
+            a : function void (a : integer) inherit printInteger{preventDefault();}
+            b : function void (b : integer){}
+            c : function void () inherit main{}
+            d : function void () inherit var_a{}
+            main : function void(){}
+        

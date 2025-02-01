@@ -1,0 +1,8 @@
+
+            foo : function string(a : auto) {
+                a = foo("a");
+                return a;
+                a = 1;
+            }
+            main : function void() {}
+        

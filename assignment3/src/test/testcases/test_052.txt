@@ -1,0 +1,9 @@
+
+            foo_a: function integer(c : auto) {
+                b : string = c;
+            }
+
+            main : function auto() {
+                a : integer = foo_a(2);
+            }
+        

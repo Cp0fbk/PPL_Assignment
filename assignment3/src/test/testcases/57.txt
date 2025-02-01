@@ -1,0 +1,5 @@
+
+            func1: function void(){preventDefault();}      
+
+            main : function void() {}
+        

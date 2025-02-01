@@ -1,0 +1,1 @@
+Illegal array literal: ArrayLit([ArrayLit([IntegerLit(1), IntegerLit(1)]), ArrayLit([BinExpr("+", IntegerLit(2), IntegerLit(2)), IntegerLit(3)]), ArrayLit([StringLit("1")])])

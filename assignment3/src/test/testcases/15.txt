@@ -1,0 +1,4 @@
+
+            func1: function void(){}
+            main : function auto() inherit func1{}
+        

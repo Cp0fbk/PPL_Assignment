@@ -1,0 +1,6 @@
+
+            a, b : float = 4, 5;
+            foo : function void () {
+                
+            }
+        

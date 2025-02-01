@@ -1,0 +1,3 @@
+
+            str : string =  b * 2 / b % c;
+        

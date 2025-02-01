@@ -1,0 +1,3 @@
+Program([
+	FuncDecl(foo, AutoType, [], None, BlockStmt([DoWhileStmt(FloatLit(12.001), BlockStmt([]))]))
+])

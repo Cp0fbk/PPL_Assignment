@@ -1,0 +1,8 @@
+
+            foo : function void () {  
+                {
+                    continue;
+                    {{{}}}
+                }
+            }
+        

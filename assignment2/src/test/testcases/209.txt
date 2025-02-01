@@ -1,0 +1,3 @@
+
+            a, b : array [4] of boolean;
+        

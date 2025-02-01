@@ -1,0 +1,5 @@
+
+            f : integer = 1;
+            x, y : integer = 1, 2;
+            a, b, c, d : array [1] of float  = 1, 2, 3, 4;
+        

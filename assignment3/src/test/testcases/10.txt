@@ -1,0 +1,7 @@
+
+            a : function void (a : integer) inherit c{preventDefault();}
+            b : function void (b : integer){}
+            c : function void () inherit b{}
+            d : function void () inherit e{}
+            main : function void(){}
+        

@@ -1,0 +1,6 @@
+  
+            foo : function float (a : integer) {return 1;}
+            main : function void() {
+                foo(1.0);
+            }
+        

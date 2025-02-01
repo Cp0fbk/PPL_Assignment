@@ -1,0 +1,11 @@
+
+            main : function void() {
+                if(func1()){
+                    a : auto = 1;
+                } 
+            }
+
+            func1 : function auto(){
+                return true;
+            }
+        

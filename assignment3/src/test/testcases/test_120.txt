@@ -1,0 +1,10 @@
+  
+            main : function void(){
+                a : array [1] of float;
+                b : array [2,2] of float;
+                c : float = a[0] + b[0,0];
+                d : array [2] of float = b[foo_a()];
+            }
+
+            foo_a : function auto(){return "string";}
+        

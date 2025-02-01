@@ -1,0 +1,8 @@
+  
+            main : function void() {
+                a : array [1] of string;
+                b : array [2,2] of integer;
+                c : float = b[1, "string"];
+            }
+            
+        

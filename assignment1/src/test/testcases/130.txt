@@ -1,0 +1,5 @@
+
+            foo : function auto (inherit out id : auto, inherit out id : auto) inherit foo1 {}
+            foo : function array [1] of integer () {}
+            foo : function integer (inherit id : float, out id : boolean, id : array [1] of integer) {}
+        

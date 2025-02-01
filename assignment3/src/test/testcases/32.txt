@@ -1,0 +1,8 @@
+
+            func1: function void(){}
+            func2: function void(a : integer)  inherit func1{
+                preventDefault(1, 2);
+            }          
+
+            main : function void() {}
+        

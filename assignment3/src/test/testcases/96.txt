@@ -1,0 +1,21 @@
+
+            main : function void() {
+                while(true)
+                {
+                    a : auto = 1;
+                    for (a=1,true,1) break;
+                    break;
+                    continue;
+                    do{
+                        {
+                            break;
+                            continue;
+                        }
+                    }while(true);
+                    break;
+                    continue;
+                    for (a=1,true,1) continue;
+                }
+                break;
+            }
+        

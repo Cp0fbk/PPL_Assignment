@@ -1,0 +1,5 @@
+
+            a : integer;
+            a : function void (){}
+            main : function void(){}
+        

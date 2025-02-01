@@ -1,0 +1,1 @@
+Type mismatch in statement: WhileStmt(FuncCall("func1", []), ReturnStmt())

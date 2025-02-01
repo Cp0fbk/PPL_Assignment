@@ -1,0 +1,8 @@
+
+            fo4 : function string ()
+            {
+                do 
+                    if(true) break;
+                while(1);
+            }
+        

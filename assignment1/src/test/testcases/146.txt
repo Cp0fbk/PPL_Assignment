@@ -1,0 +1,4 @@
+
+            id : auto = a :: 1;
+            id : auto = a <= b;
+        

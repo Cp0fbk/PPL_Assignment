@@ -1,0 +1,9 @@
+
+            foo : function void () {  
+                do
+                {
+                    return;
+                }
+                while(11.0);
+            }
+        

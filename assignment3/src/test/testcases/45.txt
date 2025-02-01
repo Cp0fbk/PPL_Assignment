@@ -1,0 +1,13 @@
+
+            func1: function void(inherit c : auto) inherit func2{preventDefault();}
+            func2: function void(inherit b : auto){}
+            func3: function integer() inherit func1{
+                preventDefault();
+                a : float = b;
+                d : integer = d;
+                e : float = d;
+                k : string = d;
+            }            
+
+            main : function auto() {}
+        

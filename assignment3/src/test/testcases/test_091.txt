@@ -1,0 +1,9 @@
+
+            main : function void() {
+                while(foo_a()) return;
+            }
+
+            foo_a : function string(){
+                return "2";
+            }
+        

@@ -1,0 +1,4 @@
+Program([
+	FuncDecl(foo, AutoType, [InheritOutParam(id, FloatType), OutParam(id, AutoType), InheritParam(id, IntegerType)], foo1, BlockStmt([]))
+	FuncDecl(foo, ArrayType([1], IntegerType), [InheritOutParam(id, ArrayType([1], IntegerType))], None, BlockStmt([]))
+])

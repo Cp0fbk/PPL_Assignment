@@ -1,0 +1,5 @@
+
+            foo : function void () {
+                x[1,2] = "!";
+            }
+        

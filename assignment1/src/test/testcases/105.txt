@@ -1,0 +1,7 @@
+
+            a : float;
+            b : boolean;
+            c : string;
+            d : auto;
+            e, h : auto;
+        

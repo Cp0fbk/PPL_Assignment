@@ -1,0 +1,4 @@
+
+            readInteger : integer;
+            main : function void(){}
+        

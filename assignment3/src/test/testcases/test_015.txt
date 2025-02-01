@@ -1,0 +1,4 @@
+
+            foo_a: function void(){}
+            main : function auto() inherit foo_a{}
+        

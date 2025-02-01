@@ -1,0 +1,6 @@
+
+            f : array [1] of integer;
+            g : array [1, 2] of float;
+            h, h, h : array [1, 3] of boolean;
+            j : array [1, 3] of integer;
+        

@@ -1,0 +1,14 @@
+
+            a : integer;
+            foo_a : function void (c : integer, b : string) {
+                {
+                    a : integer;
+                }
+                a : integer;
+                {
+                    b, a, b : integer;
+                }
+            }
+
+            main : function void(){}
+        

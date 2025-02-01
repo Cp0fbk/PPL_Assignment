@@ -1,0 +1,8 @@
+
+            foo : function auto () {  
+                do
+                {
+                }
+                while(12.001);
+            }
+        

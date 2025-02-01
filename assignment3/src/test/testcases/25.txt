@@ -1,0 +1,6 @@
+
+            func1: function void(inherit b : auto){}
+            func2: function void(b : auto) inherit func1{preventDefault();}
+
+            main : function auto() {}
+        

@@ -1,0 +1,15 @@
+
+            main : function void() {
+                a : auto = 1;
+                while(true){
+                    a : auto = 1;
+                    return;
+                }
+                while(true) return;
+                while(1) return;
+            }
+
+            foo_a : function auto(){
+                return true;
+            }
+        

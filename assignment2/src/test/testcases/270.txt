@@ -1,0 +1,12 @@
+
+            foo : function auto () {
+                if (true) break;
+                else {}
+                
+                if (true)
+                    if(true) return;
+                    else continue;
+                else break;
+                
+            }
+        

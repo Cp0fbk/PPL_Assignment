@@ -1,0 +1,6 @@
+
+            readInteger : function integer (e : integer){ 
+                return 1;
+            }
+            main : function void(){}
+        

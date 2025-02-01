@@ -1,0 +1,11 @@
+
+            foo : function auto ()
+            {
+                {  
+                }
+                {
+                    return;
+                }
+                {{{return;}}}
+            }
+        

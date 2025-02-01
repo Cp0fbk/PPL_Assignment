@@ -1,0 +1,10 @@
+
+            foo_a : function integer (a : auto) {
+                b : string = a :: foo_b();
+                c : string = a :: 1;
+                return 1;
+            }
+            
+            main : function void() {}
+            foo_b : function auto (){return "string";}
+        

@@ -1,0 +1,3 @@
+Program([
+	FuncDecl(foo, AutoType, [], None, BlockStmt([IfStmt(BooleanLit(True), BreakStmt(), BlockStmt([]))]))
+])

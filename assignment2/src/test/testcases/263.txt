@@ -1,0 +1,6 @@
+
+            a, b : integer = 4, 5;
+            foo : function void () {
+                
+            }
+        

@@ -1,0 +1,10 @@
+
+            func1: function void(inherit c : integer) inherit func2{preventDefault();}
+            func2: function void( b : integer){}
+            func3: function integer() inherit func1{
+                preventDefault();
+                a, d : integer = b, c;
+            }            
+
+            main : function auto() {}
+        

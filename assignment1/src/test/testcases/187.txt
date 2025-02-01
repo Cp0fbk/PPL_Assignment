@@ -1,0 +1,6 @@
+
+            fo4 : function string ()
+            {
+                for(id = 1, i < 1,) break;
+            }
+        

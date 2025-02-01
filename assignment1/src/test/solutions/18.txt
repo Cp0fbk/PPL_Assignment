@@ -1,0 +1,1 @@
+auto,integer,string,void,array,while,out,else,do,for,function,false,true,<EOF>

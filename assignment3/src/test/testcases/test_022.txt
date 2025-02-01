@@ -1,0 +1,6 @@
+
+            a : auto = 1;
+            main : function void(){
+                b : string = 1;
+            }
+        

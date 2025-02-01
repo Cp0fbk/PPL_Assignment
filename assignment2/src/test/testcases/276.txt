@@ -1,0 +1,6 @@
+
+            foo : function void () {  
+                return;
+                return 15 > 3;
+            }
+        

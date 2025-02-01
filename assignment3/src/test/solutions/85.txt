@@ -1,0 +1,1 @@
+Type mismatch in statement: ForStmt(AssignStmt(Id("id"), IntegerLit(1)), FuncCall("func1", []), Id("id"), BlockStmt([ReturnStmt()]))

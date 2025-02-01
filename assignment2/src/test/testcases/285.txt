@@ -1,0 +1,9 @@
+
+            foo : function void () {  
+                {
+                    x, y : float;
+                    z, t : float = 15, 5;
+                    e : string = "$$#####";
+                }
+            }
+        

@@ -1,0 +1,14 @@
+
+            main : function void() {
+                if(foo_a()){
+                    a : auto = 1;
+                } 
+                else {
+                    a : auto = 1;
+                }
+            }
+
+            foo_a : function auto(){
+                return;
+            }
+        

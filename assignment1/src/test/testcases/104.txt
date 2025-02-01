@@ -1,0 +1,7 @@
+
+           a, b, c : integer; 
+            e : float;
+            a, : integer;
+            s : string;
+            a : integer
+        

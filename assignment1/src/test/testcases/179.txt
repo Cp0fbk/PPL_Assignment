@@ -1,0 +1,8 @@
+
+            foo : function auto ()
+            {
+                a5 : float;
+                a9 : float = 5;
+                a, b : float = 1, 2;
+            }
+        

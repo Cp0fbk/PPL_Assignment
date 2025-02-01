@@ -1,0 +1,5 @@
+
+            id : integer = 1 > 2;
+            id : integer = 1 == 2.0;
+            id : integer = 1.0 != 2;
+        

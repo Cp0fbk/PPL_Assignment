@@ -1,0 +1,11 @@
+
+            a : string; 
+            b : string = a; 
+            func2: function void(inherit b : integer){}
+            func3: function void() inherit func2{
+                preventDefault();
+                c : string = b; // inherit b : integer
+            }            
+
+            main : function void() {}
+        

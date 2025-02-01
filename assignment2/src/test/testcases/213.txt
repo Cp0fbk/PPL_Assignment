@@ -1,0 +1,4 @@
+
+            x, y : string = 15, 16;
+            z : float = 20;
+        

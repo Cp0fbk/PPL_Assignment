@@ -1,0 +1,9 @@
+
+            foo_a: function void(b : auto) {
+                a : integer = b;
+                d : integer = b;
+                c : string = b;
+            }
+                   
+            main : function auto() {}
+        

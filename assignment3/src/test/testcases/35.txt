@@ -1,0 +1,10 @@
+
+            func1: function void(b : float, a : float){}
+            func2: function void()  inherit func1{
+                super(1, 2.0);
+            }          
+            func3: function void()  inherit func1{
+                super(1,true);
+            }       
+            main : function void() {}
+        

@@ -1,0 +1,3 @@
+Program([
+	VarDecl(x, FloatType, ArrayLit([BinExpr(/, IntegerLit(15), IntegerLit(5)), FuncCall(foo, []), ArrayLit([IntegerLit(1), IntegerLit(2)])]))
+])

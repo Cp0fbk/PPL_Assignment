@@ -1,0 +1,3 @@
+Program([
+	VarDecl(id, IntegerType, UnExpr(!, IntegerLit(1)))
+])

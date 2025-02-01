@@ -1,0 +1,10 @@
+
+            fo4 : function string ()
+            {
+                do 
+                {
+                   break; 
+                }
+                while(true);
+            }
+        

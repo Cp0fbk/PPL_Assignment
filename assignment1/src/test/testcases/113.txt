@@ -1,0 +1,3 @@
+
+            a : array [true] of auto;
+        

@@ -1,0 +1,10 @@
+
+            foo_a : function integer (a : auto) {
+                b : boolean = a && true || foo_b();
+                c : boolean = 1.0 && true;
+                return 1;
+            }
+            
+            main : function void() {}
+            foo_b : function auto (){return true;}
+        

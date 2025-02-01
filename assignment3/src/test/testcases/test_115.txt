@@ -1,0 +1,13 @@
+
+            foo_a : function integer (a : auto) {
+                b : boolean = a > foo_b();
+                c : boolean = 1 < 1.2;
+                d : boolean = 1.0 >= a;
+                e : boolean = 1 <= 2.3*a;
+                f : boolean = true >= "string";
+                return 1;
+            }
+            
+            main : function void() {}
+            foo_b : function auto (){return 1;}
+        

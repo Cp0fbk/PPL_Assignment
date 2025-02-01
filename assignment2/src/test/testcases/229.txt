@@ -1,0 +1,4 @@
+
+            id : integer = 1 < true;
+            id : integer = 1.0 != 2;
+        

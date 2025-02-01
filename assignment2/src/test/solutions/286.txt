@@ -1,0 +1,3 @@
+Program([
+	FuncDecl(foo, VoidType, [], None, BlockStmt([BlockStmt([VarDecl(x, IntegerType), VarDecl(y, IntegerType), VarDecl(z, FloatType, IntegerLit(1)), VarDecl(t, FloatType, IntegerLit(2)), VarDecl(e, StringType, StringLit($$))])]))
+])

@@ -1,0 +1,11 @@
+
+            a : integer = 1;
+            foo_a : function void (e : integer){
+                {
+                    b : integer = d;
+                }
+                d : integer = c;
+            }
+            d : integer = a;
+            main : function void(){}
+        

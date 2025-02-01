@@ -1,0 +1,9 @@
+
+            foo_a : function float (a : auto) {
+                b : auto = foo_a(1.0) + foo_b();
+                return a;
+            }
+            
+            main : function void() {}
+            foo_b : function auto (){return "String";}
+        

@@ -1,0 +1,10 @@
+
+            id : auto = a == b;
+            id : auto = a != b;
+            id : auto = a && b || c ;
+            id : auto = a + b - c;
+            id : auto = a * b / c % d;
+            id : auto = - a;
+            id : auto = ! a;
+            id : auto = a[1,2,3];
+        

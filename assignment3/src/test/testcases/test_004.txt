@@ -1,0 +1,5 @@
+
+            a : function void () {}
+            a : function void (a : string) {}
+            main : function void(){}
+        

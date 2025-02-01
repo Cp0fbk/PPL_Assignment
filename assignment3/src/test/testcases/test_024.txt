@@ -1,0 +1,88 @@
+
+        /*
+            Access Access(
+            typeLeft = AutoType()
+            symbol = [
+                [ VarMT22(#16, a, IntegerType()), VarMT22(#17, b, IntegerType()) ]
+            ])
+        */
+            a, b : integer;
+
+        /*
+            Access Access(
+            typeLeft = AutoType()
+            symbol = [
+                [ ParamMT22(#12, a, IntegerType(), False, inherit=False), ParamMT22(#13, c, StringType(), False, inherit=False) ]
+                [ VarMT22(#16, a, IntegerType()), VarMT22(#17, b, IntegerType()) ]
+            ])
+        */
+        foo_a : function void(a : integer, c : string){
+            /*
+                Access Access(
+                typeLeft = AutoType()
+                symbol = [
+                    [ VarMT22(#18, a, BooleanType()), VarMT22(#19, d, BooleanType()) ]
+                    [ ParamMT22(#12, a, IntegerType(), False, inherit=False), ParamMT22(#13, c, StringType(), False, inherit=False) ]
+                    [ VarMT22(#16, a, IntegerType()), VarMT22(#17, b, IntegerType()) ]
+                ])
+            */
+            e, d : boolean;
+
+            {
+                /*
+                    Access Access(
+                    typeLeft = AutoType()
+                    symbol = [
+                        [ VarMT22(#20, a, BooleanType()), VarMT22(#21, e, BooleanType()) ]
+                        [ VarMT22(#18, e, BooleanType()), VarMT22(#19, d, BooleanType()) ]
+                        [ ParamMT22(#12, a, IntegerType(), False, inherit=False), ParamMT22(#13, c, StringType(), False, inherit=False) ]
+                        [ VarMT22(#16, a, IntegerType()), VarMT22(#17, b, IntegerType()) ]
+                    ])
+                */
+                a, e : boolean;
+            }
+
+            /*
+                Access Access(
+                typeLeft = AutoType()
+                symbol = [
+                    [ VarMT22(#18, a, BooleanType()), VarMT22(#19, d, BooleanType()), VarMT22(#22, k, BooleanType()) ]
+                    [ ParamMT22(#12, a, IntegerType(), False, inherit=False), ParamMT22(#13, c, StringType(), False, inherit=False) ]
+                    [ VarMT22(#16, a, IntegerType()), VarMT22(#17, b, IntegerType()) ]
+                ])
+            */            
+            k : auto = true;
+        }            
+
+
+
+        /*
+            Access Access(
+            typeLeft = AutoType()
+            symbol = [
+                [ ]
+                [ VarMT22(#16, a, IntegerType()), VarMT22(#17, b, IntegerType()) ]
+            ])
+        */                
+        main : function void(){
+            /*
+                Access Access(
+                typeLeft = AutoType()
+                symbol = [
+                    [ VarMT22(#23, j, AutoType()) ]
+                    [  ]
+                    [ VarMT22(#16, a, IntegerType()), VarMT22(#17, b, IntegerType()) ]
+                ])
+            */    
+            j : auto = true;
+        }
+
+        /*
+            Access Access(
+            typeLeft = AutoType()
+            symbol = [
+                [ VarMT22(#16, a, IntegerType()), VarMT22(#17, b, IntegerType()), VarMT22(#24, c, BooleanType()) ]
+            ])
+        */ 
+            c : auto = true;
+        

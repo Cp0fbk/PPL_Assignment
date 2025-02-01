@@ -1,0 +1,13 @@
+
+            main : function void() {
+                id : auto = 1;
+                for(id = 2, foo_a(), id)
+                {
+                    return;
+                }
+            }
+
+            foo_a : function auto(){
+                return 1;
+            }
+        

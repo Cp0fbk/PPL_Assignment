@@ -1,0 +1,12 @@
+  
+            foo : function auto (a : integer) {
+                {  
+                    return 1;
+                    {
+                        return "B";
+                    }
+                    return "B";
+                }
+                return "A";
+            }
+        

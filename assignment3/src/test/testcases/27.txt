@@ -1,0 +1,7 @@
+
+            func1: function void(inherit b : integer) inherit func2{preventDefault();}
+            func2: function void(b : integer){}
+            func3: function void(b : integer) inherit func1{preventDefault();}            
+
+            main : function void() {}
+        

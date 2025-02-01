@@ -1,0 +1,9 @@
+
+            foo_a : function integer (a : auto) {
+                b : integer = a;
+                return a;
+                c : string = a + 1.0;
+            }
+            
+            main : function void() {}
+        

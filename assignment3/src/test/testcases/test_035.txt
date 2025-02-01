@@ -1,0 +1,10 @@
+
+            foo_a: function void(b : float, a : float){}
+            foo_b: function void()  inherit foo_a{
+                super(1, 2.0);
+            }          
+            foo_c: function void()  inherit foo_a{
+                super(1,true);
+            }       
+            main : function void() {}
+        

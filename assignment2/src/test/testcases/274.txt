@@ -1,0 +1,6 @@
+
+            foo : function auto () {  
+                return;
+                return 15 / 3;
+            }
+        

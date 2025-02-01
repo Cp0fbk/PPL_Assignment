@@ -1,0 +1,12 @@
+
+            a : integer;
+            func1 : function void (a : integer, b : string) {
+                a : integer;
+                {
+                    a : integer;
+                }
+                a : string;
+            }
+
+            main : function void(){}
+        

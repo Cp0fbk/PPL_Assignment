@@ -1,0 +1,9 @@
+
+            func1: function integer(inherit c : integer) {return 1;}
+            func2: function void(inherit b : integer){}
+            func3: function integer(){return 1;}  
+
+            main : function auto() {
+                func3("a");
+            }
+        

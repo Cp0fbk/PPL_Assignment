@@ -1,0 +1,11 @@
+
+            func1: function void(inherit c : integer) {}
+            func2: function integer(inherit b : float){return 1;}
+            func3: function integer(){return 1;}            
+
+            main : function auto() {
+                a : integer = func3();
+                b : integer = func2(1.0);
+                d : integer = foo_d();
+            }
+        

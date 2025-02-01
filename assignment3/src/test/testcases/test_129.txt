@@ -1,0 +1,9 @@
+  
+            foo : function float (a : integer) {
+                {  
+                    return 2;
+                    return "B";
+                }
+                return "A";
+            }
+        

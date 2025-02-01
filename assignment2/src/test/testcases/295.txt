@@ -1,0 +1,6 @@
+
+            foo : function auto () {  
+                while (false) {}
+                break;
+            }
+        

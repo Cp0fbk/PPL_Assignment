@@ -1,0 +1,9 @@
+
+            foo : function auto() {
+
+            }
+            func1 : function string() {
+                return foo();
+            }
+            main : function void() {}
+        

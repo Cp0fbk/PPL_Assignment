@@ -1,0 +1,8 @@
+
+            func1: function void(){}
+            func2: function void(a : auto)  inherit func1{}
+            func3: function void() inherit func2{ super(1); }
+            foo_d: function void()  inherit func1{preventDefault();}              
+            foo_e: function void(a : auto)  inherit foo_d{super();} 
+            main : function void() {}
+        

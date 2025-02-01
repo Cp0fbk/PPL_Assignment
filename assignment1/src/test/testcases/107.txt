@@ -1,0 +1,7 @@
+
+            c : string;
+            d : auto;
+            e, h : auto;
+            f : array [1] of integer;
+            g : array [1, 2] of float;
+        

@@ -1,0 +1,3 @@
+Program([
+	FuncDecl(foo, AutoType, [], None, BlockStmt([CallStmt(foo, ), CallStmt(foo, BinExpr(/, IntegerLit(6), IntegerLit(3)), IntegerLit(3))]))
+])

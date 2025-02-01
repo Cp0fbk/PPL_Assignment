@@ -1,0 +1,5 @@
+
+            foo : function void () {  
+                for (i[1+2] = 10, i > 0, i - 1) return;
+            }
+        

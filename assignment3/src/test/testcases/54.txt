@@ -1,0 +1,9 @@
+
+            main : function auto() {
+                a : integer = func1(2);
+            }
+
+            func1: function auto(c : auto) {
+                a : string = func1(2);
+            }
+        
